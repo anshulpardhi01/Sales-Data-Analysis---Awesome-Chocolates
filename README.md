@@ -7,7 +7,7 @@
 #### Microsoft Excel: Used for initial data cleaning, structuring, and exploratory data analysis (EDA).
 
 ## Objectives
-####The key objectives of this project are:
+#### The key objectives of this project are:
 
 #### • Analyze the sales performance of various products in different geographies.
 • Understand the contribution of individual salespersons.
