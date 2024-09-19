@@ -5,3 +5,11 @@
 
 ## Tools and Technologies:
 #### Microsoft Excel: Used for initial data cleaning, structuring, and exploratory data analysis (EDA).
+
+## Objectives
+####The key objectives of this project are:
+
+#### • Analyze the sales performance of various products in different geographies.
+• Understand the contribution of individual salespersons.
+• Identify patterns and trends that can be used to optimize sales strategy.
+• Provide actionable insights to improve decision-making in product marketing and distribution.
